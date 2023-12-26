@@ -1,0 +1,4 @@
+{
+    "AuthToken":"put your auth token from dmarket api",
+    "WebhookUrl":"your Webhook url"
+}
